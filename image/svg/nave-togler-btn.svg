@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 19">
+  <symbol xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 19" id="26451">
+    <path d="M0 1h24M0 10h24m-12 8h12" stroke="currentColor" stroke-width="2"></path>
+  </symbol>
+  <use href="#26451"></use>
+</svg>
